@@ -11,10 +11,10 @@ This repository contains my weekly progress, practical exercises from the semina
 
 ## Weekly Topics
 
-Week 1 - No lab this week 
-Week 2 - TCP/IP Application Layer 
-Week 3 - Transport Layer Part 1 
-Week 4 - Transport Layer Part 2 
-Week 5 - Network Layer 
-Week 6 - Network Access Layer 
-Week 7 - Introduction to Operating Systems 
+Week 1 - No lab this week <br />
+Week 2 - TCP/IP Application Layer <br />
+Week 3 - Transport Layer Part 1 <br />
+Week 4 - Transport Layer Part 2 <br />
+Week 5 - Network Layer <br />
+Week 6 - Network Access Layer <br />
+Week 7 - Introduction to Operating Systems <br />
