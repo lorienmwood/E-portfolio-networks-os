@@ -1,4 +1,4 @@
-# E-Portfolio of evidence for Newtorks and Operating Systems 
+# E-Portfolio for Newtorks and Operating Systems 
 
 ## Overview
 This repository contains my weekly progress, practical exercises from the seminar and notes 
