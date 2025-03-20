@@ -5,7 +5,7 @@ This repository contains my weekly progress, practical exercises from the semina
 
 ## Folder Structure
 - `weekly_labs/` - Contains Jupyter Notebooks and notes for each seminar
-  - `weekX/` - Keeps the work from said weekc
+  - `weekX/` - Keeps the work from each week 
     - `notes.md` - Key takeaways and notes from the seminar
     - `weekX.ipynb` - Jupyter Notebook with seminar exercises and solutions
 
